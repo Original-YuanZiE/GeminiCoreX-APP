@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <MsgTitle>警告</MsgTitle>
+  <MsgText>修改此项设置将会重启文件资源管理器，这会导致你的文件夹窗口全部关闭并终止复制任务，并且文件资源管理器重启后一段时间任务栏才会重新弹出
+继续吗？</MsgText>
+  <Value>false</Value>
+</root>

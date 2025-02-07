@@ -1,0 +1,156 @@
+Edition:Enterprise 
+Key:NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+Edition:ServerStandard Ge
+Key:DPNXD-67YY9-WWFJJ-RYH99-RM832
+
+Edition:ServerStandard FE
+Key:VDYBN-27WPP-V4HQT-9VMD4-VMK7H
+
+Edition:ServerStandard RS5
+Key:N69G4-B89J2-4G8F4-WWYCC-J464C
+
+Edition:ServerStandard RS1
+Key:WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY
+
+Edition:ServerDatacenter Ge
+Key:CNFDQ-2BW8H-9V4WM-TKCPD-MD2QF
+
+Edition:ServerDatacenter FE
+Key:WX4NM-KYWYW-QJJR4-XV3QB-6VM33
+
+Edition:ServerDatacenter RS5
+Key:WMDGN-G9PQG-XVVXX-R3X43-63DFG
+
+Edition:ServerDatacenter RS1
+Key:CB7KF-BWN84-R7R2Y-793K2-8XDDG
+
+Edition:EnterpriseN 
+Key:DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
+Edition:Professional 
+Key:W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+Edition:ProfessionalN 
+Key:MH37W-N47XK-V7XM9-C7227-GCQG9
+
+Edition:ServerSolution RS5
+Key:WVDHN-86M7X-466P6-VHXV7-YY726
+
+Edition:ServerSolution RS1
+Key:JCKRF-N37P4-C2D82-9YXRT-4M63B
+
+Edition:CoreN 
+Key:3KHY7-WNT83-DGQKR-F7HPR-844BM
+
+Edition:CoreCountrySpecific 
+Key:PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+
+Edition:CoreSingleLanguage 
+Key:7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+
+Edition:Core 
+Key:TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+
+Edition:ServerCloudStorage 
+Key:QN4C6-GBJD2-FB422-GHWJK-GJG2R
+
+Edition:ServerARM64 RS5
+Key:GRFBW-QNDC4-6QBHG-CCK3B-2PR88
+
+Edition:ServerARM64 RS4
+Key:K9FYF-G6NCK-73M32-XMVPY-F9DRR
+
+Edition:Education 
+Key:NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+
+Edition:EducationN 
+Key:2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+
+Edition:EnterpriseS RS5,VB,Ge
+Key:M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+
+Edition:EnterpriseS RS1
+Key:DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
+
+Edition:EnterpriseS TH1
+Key:WNMTR-4C88C-JK8YV-HQ7T2-76DF9
+
+Edition:EnterpriseSN RS5,VB,Ge
+Key:92NFX-8DJQP-P6BBQ-THF9C-7CG2H
+
+Edition:EnterpriseSN RS1
+Key:QFFDN-GRT3P-VKWWX-X7T3R-8B639
+
+Edition:EnterpriseSN TH1
+Key:2F77B-TNFGY-69QQF-B8YKP-D69TJ
+
+Edition:ServerDatacenterACor FE
+Key:QFND9-D3Y9C-J3KKY-6RPVP-2DPYV
+
+Edition:ServerDatacenterACor RS5
+Key:6NMRW-2C8FM-D24W7-TQWMY-CWH2D
+
+Edition:ServerDatacenterACor RS3
+Key:2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG
+
+Edition:ServerStandardACor FE
+Key:67KN8-4FYJW-2487Q-MQ2J7-4C4RG
+
+Edition:ServerStandardACor RS5
+Key:N2KJX-J94YW-TQVFB-DG9YT-724CC
+
+Edition:ServerStandardACor RS3
+Key:PTXN8-JFHJM-4WC78-MPCBR-9W4KR
+
+Edition:ProfessionalWorkstation 
+Key:NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+
+Edition:ProfessionalWorkstationN 
+Key:9FNHH-K3HBT-3W4TD-6383H-6XYWF
+
+Edition:ProfessionalEducation 
+Key:6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
+
+Edition:ProfessionalEducationN 
+Key:YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
+
+Edition:ServerAzureCor Ge
+Key:QN7G3-4RM92-MT6QR-PR966-FVYV7
+
+Edition:ServerAzureCor FE
+Key:6N379-GGTMK-23C6M-XVVTC-CKFRQ
+
+Edition:ServerAzureCor RS5
+Key:FDNH6-VW9RW-BXPJ7-4XTYG-239TB
+
+Edition:ServerAzureCor RS1
+Key:VP34G-4NPPG-79JTQ-864T4-R3MQX
+
+Edition:EnterpriseG 
+Key:YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+
+Edition:EnterpriseGN 
+Key:44RPN-FTY23-9VTTB-MP9BX-T84FV
+
+Edition:ServerRdsh RS5
+Key:CPWHC-NT2C7-VYW78-DHDB2-PG3GK
+
+Edition:ServerRdsh RS3
+Key:7NBT4-WGBQX-MP4H7-QXFF8-YP3KX
+
+Edition:CloudE 
+Key:NBTWJ-3DR69-3C4V8-C26MC-GQ9M6
+
+Edition:CloudEditionN 
+Key:6XN7V-PCBDC-BDBRH-8DQY7-G6R44
+
+Edition:CloudEdition 
+Key:37D7F-N49CB-WQR8W-TBJ73-FM8RX
+
+Edition:ServerTurbine Ge
+Key:NQ8HH-FTDTM-6VGY7-TQ3DV-XFBV2
+
+Edition:ServerTurbine 
+Key:NTBV8-9K7Q8-V27C6-M2BTV-KHMXV
+

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Userdata\\source\\GeminiCoreX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\sysfunction.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\sysfunction.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\theme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\theme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\theme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\theme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\sysfunction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\sysfunction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|c:\\userdata\\source\\geminicorex\\geminicorex\\splash.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFD43B9-A043-400E-A7CE-497330F9778D}|GeminiCoreX\\GeminiCoreX.csproj|solutionrelative:geminicorex\\splash.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 232,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\HomePage.xaml",
+              "RelativeDocumentMoniker": "GeminiCoreX\\HomePage.xaml",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\HomePage.xaml",
+              "RelativeToolTip": "GeminiCoreX\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T09:03:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "GeminiCoreX\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\HomePage.xaml.cs",
+              "RelativeToolTip": "GeminiCoreX\\HomePage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:07:13.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Splash.xaml.cs",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\Splash.xaml.cs",
+              "RelativeDocumentMoniker": "GeminiCoreX\\Splash.xaml.cs",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\Splash.xaml.cs",
+              "RelativeToolTip": "GeminiCoreX\\Splash.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:12:18.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Theme.xaml.cs",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\Theme.xaml.cs",
+              "RelativeDocumentMoniker": "GeminiCoreX\\Theme.xaml.cs",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\Theme.xaml.cs",
+              "RelativeToolTip": "GeminiCoreX\\Theme.xaml.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwDQBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:57:15.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Theme.xaml",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\Theme.xaml",
+              "RelativeDocumentMoniker": "GeminiCoreX\\Theme.xaml",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\Theme.xaml",
+              "RelativeToolTip": "GeminiCoreX\\Theme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T07:57:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SysFunction.xaml",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\SysFunction.xaml",
+              "RelativeDocumentMoniker": "GeminiCoreX\\SysFunction.xaml",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\SysFunction.xaml",
+              "RelativeToolTip": "GeminiCoreX\\SysFunction.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T07:56:58.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SysFunction.xaml.cs",
+              "DocumentMoniker": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\SysFunction.xaml.cs",
+              "RelativeDocumentMoniker": "GeminiCoreX\\SysFunction.xaml.cs",
+              "ToolTip": "C:\\Userdata\\source\\GeminiCoreX\\GeminiCoreX\\SysFunction.xaml.cs",
+              "RelativeToolTip": "GeminiCoreX\\SysFunction.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAcwKsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:56:57.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

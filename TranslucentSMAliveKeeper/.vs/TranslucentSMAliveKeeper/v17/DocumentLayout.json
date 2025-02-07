@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8A9418-D3EA-4962-8040-04045A44818E}|TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper.csproj|c:\\users\\yuanzie\\documents\\github\\geminicorex-app\\translucentsmalivekeeper\\translucentsmalivekeeper\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8A9418-D3EA-4962-8040-04045A44818E}|TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper.csproj|solutionrelative:translucentsmalivekeeper\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8A9418-D3EA-4962-8040-04045A44818E}|TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper.csproj|C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\translucentsmalivekeeper\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8A9418-D3EA-4962-8040-04045A44818E}|TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper.csproj|solutionrelative:translucentsmalivekeeper\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8A9418-D3EA-4962-8040-04045A44818E}|TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper.csproj|C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\translucentsmalivekeeper\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8A9418-D3EA-4962-8040-04045A44818E}|TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper.csproj|solutionrelative:translucentsmalivekeeper\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "TranslucentSMAliveKeeper\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Userdata\\source\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\ProjectInstaller.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Userdata\\source\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\ProjectInstaller.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:15:00.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\Service1.cs",
+              "RelativeDocumentMoniker": "TranslucentSMAliveKeeper\\Service1.cs",
+              "ToolTip": "C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\Service1.cs",
+              "RelativeToolTip": "TranslucentSMAliveKeeper\\Service1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:08:07.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\YuanZiE\\Documents\\GitHub\\GeminiCoreX-APP\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\Service1.cs",
+              "RelativeDocumentMoniker": "TranslucentSMAliveKeeper\\Service1.cs",
+              "ToolTip": "C:\\Userdata\\source\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\Service1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Userdata\\source\\TranslucentSMAliveKeeper\\TranslucentSMAliveKeeper\\Service1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:07:44.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

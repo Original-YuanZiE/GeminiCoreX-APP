@@ -1,0 +1,22 @@
+﻿<Window x:Class="GeminiCoreX.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeminiCoreX"
+        mc:Ignorable="d"
+        xmlns:ui="http://schemas.inkore.net/lib/ui/wpf/modern"
+        ui:WindowHelper.UseModernWindowStyle="True"
+        ui:WindowHelper.SystemBackdropType="Mica"
+        Title="" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Height="35">
+            <Label Content="GeminiCore" FontSize="28" FontWeight="Bold" Margin="0,0,0,0" HorizontalContentAlignment="Right"></Label>
+            <Label Content="X" FontSize="28" FontWeight="Bold" Margin="0,0,0,0" HorizontalContentAlignment="Left" Foreground="#0078D4"></Label>
+        </StackPanel>
+        <StackPanel Margin="0,0,0,5" VerticalAlignment="Bottom">
+            <ui:ProgressRing Height="20" Width="20"/>
+            <Label Content="已完成 InitializeComponent()" FontSize="12" Margin="5,80,5,0" x:Name="SplashLog"/>
+        </StackPanel>
+    </Grid>
+</Window>

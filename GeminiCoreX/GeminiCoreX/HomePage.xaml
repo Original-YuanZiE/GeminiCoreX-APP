@@ -1,0 +1,57 @@
+﻿<Page x:Class="GeminiCoreX.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GeminiCoreX"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="580"
+      Title="HomePage"
+      xmlns:ui="http://schemas.inkore.net/lib/ui/wpf/modern"
+      >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel VerticalAlignment="Center">
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Label Content="GeminiCore" FontSize="28" FontWeight="Bold" Margin="0,0,0,0" HorizontalContentAlignment="Right"></Label>
+                <Label Content="X" FontSize="28" FontWeight="Bold" Margin="0,0,0,0" HorizontalContentAlignment="Left" Foreground="#0078D4"></Label>
+            </StackPanel>
+            <Label Content="2.0.2.0.GCXCNOG" FontSize="14" FontWeight="Light" Margin="0,10,0,0" HorizontalContentAlignment="Center"></Label>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Right" Margin="0,0,20,0">
+            <Label Content="快速设置" FontSize="22" Margin="0,20,0,0"/>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="0,10,0,0">
+                <Button Width="120" Height="50" Click="Button_Click">
+                    <StackPanel Orientation="Horizontal" Width="100">
+                        <ui:FontIcon Icon="{x:Static ui:SegoeFluentIcons.Settings}"/>
+                        <TextBlock Text="系统设置" Margin="10,0,0,0"/>
+                    </StackPanel>
+                </Button>
+                <Button Width="120" Height="50" Margin="10,0,0,0" Click="Button_Click_1">
+                    <StackPanel Orientation="Horizontal" Width="100">
+                        <ui:FontIcon Icon="{x:Static ui:SegoeFluentIcons.FileExplorer}"/>
+                        <TextBlock Text="重启资源管理器" Margin="10,0,0,0" FontSize="10" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="0,10,0,0">
+                <Button Width="120" Height="50" Click="Button_Click_2">
+                    <StackPanel Orientation="Horizontal" Width="100">
+                        <ui:FontIcon Icon="{x:Static ui:SegoeFluentIcons.Wifi}"/>
+                        <TextBlock Text="网络设置" Margin="10,0,0,0"/>
+                    </StackPanel>
+                </Button>
+                <Button Width="120" Height="50" Margin="10,0,0,0" Click="Button_Click_3">
+                    <StackPanel Orientation="Horizontal" Width="100">
+                        <ui:FontIcon Icon="{x:Static ui:SegoeFluentIcons.Page}"/>
+                        <TextBlock Text="元子鹅官网" Margin="10,0,0,0" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
